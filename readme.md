@@ -6,7 +6,7 @@
 
 ## form
 
-- Vue
+- Vue or naturalJS
 
 ## console
 
